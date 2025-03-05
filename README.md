@@ -41,17 +41,17 @@ Sou desenvolvedor com 3+ anos de experiência, especializado em Ruby on Rails e 
 
 ### Ferramentas
 
-<img align='center' src='https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white' />
-<img align='center' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' />
-<img align='center' src='https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white' />
-<img align='center' src='https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white' />
+![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![image](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 
 ## Github
 
-<img height="200" align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=angelianosousa&layout=compact&theme=highcontrast'/>
+<img height="150" align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=angelianosousa&layout=compact&theme=highcontrast'/>
 
-<img height="200" align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=angelianosousa&theme=highcontrast"/>
+<img height="150" align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=angelianosousa&theme=highcontrast"/>
 
 ## Meu melhores projetos
 - [Web Money - Finanças pessoais](https://github.com/angelianosousa/web_money) Projeto para educação de finanças pessoais, usando gamificação
