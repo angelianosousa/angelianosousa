@@ -15,30 +15,29 @@ Sou desenvolvedor com 3+ anos de experiência, especializado em Ruby on Rails e 
 
 ## 🛠 Tech Stacks
 
-
 ### Linguagens
 
 <img alt="Night Coding" align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
-<img align='center' src='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' />
-<img align='center' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' />
-<img align='center' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' />
-<img align='center' src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' />
-<img align='center' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' />
-<img align='center' src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white' />
-<img align='center' src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white' />
-<img align='center' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
+![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!-- Front end-->
-<img align='center' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' />
-<img align='center' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
-<img align='center' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' />
-<img align='center' src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white' />
+![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 <!-- Infraestrutura-->
-<img align='center' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
-<img align='center' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
-<img align='center' src='https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white' />
-<img align='center' src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' />
-<img align='center' src='https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black' />
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
+![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Ferramentas
 
@@ -50,10 +49,9 @@ Sou desenvolvedor com 3+ anos de experiência, especializado em Ruby on Rails e 
 
 ## Github
 
-<div style='display: flex; flex-direction: row; justify-content: center;'>
-  <img height="200" align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=angelianosousa&layout=compact&theme=highcontrast'/>
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=angelianosousa&theme=highcontrast"/>
-</div>
+<img height="200" align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=angelianosousa&layout=compact&theme=highcontrast'/>
+
+<img height="200" align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=angelianosousa&theme=highcontrast"/>
 
 ## Meu melhores projetos
 - [Web Money - Finanças pessoais](https://github.com/angelianosousa/web_money) Projeto para educação de finanças pessoais, usando gamificação
@@ -81,22 +79,5 @@ Sou desenvolvedor com 3+ anos de experiência, especializado em Ruby on Rails e 
   </a>
 </div>
 
-<a href="https://github.com/angelianosousa/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</a>
-
+<br />
 Última edição: 04/03/2025
-<!--
-**angelianosousa/angelianosousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
